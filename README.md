@@ -2,6 +2,10 @@
 
 - Initialized youflix-gpt app
 - configured tailwindcss
+- email,password validation using regex
+- firebase setup & deploying the app
+- Authentication using firebase
+- useRef hook
 
 # App Structure
 
